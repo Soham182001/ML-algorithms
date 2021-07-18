@@ -1,0 +1,3 @@
+Link for the Dataset : https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
+I have used LeNet-5 Architecture 
+loss: 0.0811 - accuracy: 0.9772 - val_loss: 0.0825 - val_accuracy: 0.9775
